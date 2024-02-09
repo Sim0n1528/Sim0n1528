@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm new to this!
+
 <!--
 **Sim0n1528/Sim0n1528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
